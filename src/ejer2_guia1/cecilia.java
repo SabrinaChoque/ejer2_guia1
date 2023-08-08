@@ -5,15 +5,7 @@
  */
 package ejer2_guia1;
 
-/**
- *
- * @author familia maida
- */
-public class Sabrina {
-    private String nombre;
 
-    public Sabrina(String nombre) {
-        this.nombre = nombre;
-    }
-    
+public class cecilia {
+    private String name;
 }
