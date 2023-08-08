@@ -1,4 +1,4 @@
-hola
+//hola
 package ejer2_guia1;
 
 /**
