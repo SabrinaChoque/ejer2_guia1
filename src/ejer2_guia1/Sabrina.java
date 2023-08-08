@@ -11,5 +11,9 @@ package ejer2_guia1;
  */
 public class Sabrina {
     private String nombre;
+
+    public Sabrina(String nombre) {
+        this.nombre = nombre;
+    }
     
 }
